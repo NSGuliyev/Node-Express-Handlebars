@@ -1,0 +1,52 @@
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.div1 {
+    width: 50%;
+    float: left;
+    height: auto;
+}
+
+.div2 {
+    width: 50%;
+    float: left;
+    height: auto;
+}
+
+.div3 {
+    width: 50%;
+    height: auto;
+    float: inline-end;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+    padding: 40px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+}
